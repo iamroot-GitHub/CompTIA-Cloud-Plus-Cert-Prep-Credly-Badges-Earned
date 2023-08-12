@@ -1,1 +1,1 @@
-# Earned-CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges
+# Earned CompTIA Cloud+ Cert Prep Credly Badges
