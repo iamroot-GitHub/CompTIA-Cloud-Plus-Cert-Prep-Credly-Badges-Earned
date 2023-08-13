@@ -1,7 +1,7 @@
 # CompTIA Cloud+ Cert Prep Credly Badges Earned
 ## Table of Contents
 1.  [Configuration and Deployment]()
-2.  [[Maintenance]()
+2.  [Maintenance]()
 3.  [Security]()
 4.  [Troubleshooting]()
 ---
